@@ -26,7 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Extend Sitecore Layout Query to Eliminate XMC Customizations And Extra GraphQL Requests](https://sitecorerap.wordpress.com/2024/04/25/extend-sitecore-layout-query-to-eliminate-xmc-customizations-and-extra-graphql-requests) - Shows how to use GraphQL to get rid of unwanted requests by combining desired data (say page breadcrumb) along with `rendered` section under `item` output of layout data coming from Edge.
 
-- ## Storybook
+## Storybook
 
 - [Fix Storybook React Hook Errors on Sitecore JSS 21.6.0 and Up](https://www.getfishtank.com/blog/fix-storybook-react-hook-errors-on-sitecore-jss) - Shows how to fix React hook errors when running Storybook in Headless SDK 21.6 and newer by patching `compilerOptions.paths.react` section of `tsconfig.json`.
 
