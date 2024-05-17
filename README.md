@@ -33,5 +33,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Vercel
 
-- [Vercel Server Caching - Faster Sitecore Builds, Less Network Chatter]([https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates](https://sitecorerap.wordpress.com/2024/02/27/vercel-server-caching-faster-sitecore-builds-less-network-chatter)) - How to debug Vercel and implement caching with Memory-Cache.
+- [Vercel Server Caching - Faster Sitecore Builds, Less Network Chatter](https://sitecorerap.wordpress.com/2024/02/27/vercel-server-caching-faster-sitecore-builds-less-network-chatter) - How to debug Vercel and implement caching with Memory-Cache.
 
