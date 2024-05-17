@@ -1,7 +1,6 @@
 # Modern-Sitecore
 
-
-[<img src="sitecore-logo.png" align="right" width="80">](https://sitecore.com)
+[<img src="https://github.com/MartinMiles/awesome-sitecore/raw/master/sitecore-logo.png" align="right" width="80">](https://sitecore.com)
 
 > A curated list of helpful blog posts to take you through the complexities of modern Sitecore implementations. Please contribute!
 
